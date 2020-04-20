@@ -1,0 +1,2 @@
+# ColegioHumboldt
+GitHub Pages
